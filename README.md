@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @Qaddafividel
 - 👀 I’m interested in programming with python
-- 🌱 I’m currently learning how to code. 
-- 💞️ I’m looking to learn code from everyone on this platform. 
+- 🌱 I’m currently learning how to code.
 - 📫 How to reach me @gmail
-Interested in software compatible with a ACM1252 Y3.
-Qaddafividel/Qaddafividel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interested in NFC software compatible with a ACM1252 Y3. 
